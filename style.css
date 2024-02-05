@@ -1,0 +1,48 @@
+*{
+    margin: -1px;
+    padding: 0;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+    padding: 50px 0px;
+}
+.from-section-img{
+    width: 100%;
+    height: 100vh;
+  background-image: url(banner.jpg);
+    background-size:contain;
+}
+
+.form-bg{
+    width: 45%;
+    background: rgb(253, 248, 248);
+    padding: 50px;
+}
+.image{
+    text-align: center;
+}
+.image img {
+    width: 20%;
+    border-radius: 50%;
+}
+input{
+    padding: 8px 0px;
+    border: none;
+    border-bottom: 1px solid black;
+    width: 97%;
+    margin: 8px 0px;
+    color: rgba(139, 141, 143, 0.473);
+}
+.name input{
+    width: 47%;
+    
+  
+
+}
+.f-name{
+    margin-right:15px ;
+}
+.btn{
+    text-align: right;
+}
